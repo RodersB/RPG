@@ -1,5 +1,7 @@
-class Gem:
-    def __init__(self, tier, name, stats):
-        self.name = name
-        self.tier = tier
+from item import Item
+
+
+class Gem(Item):
+    def __init__(self, tier, name, sell_for, stats):
+        Item.__init__(self, tier, name, sell_for)
         self.stats = stats

@@ -35,8 +35,17 @@ def get_character():
     player.equip_item(items[3])
 
 
-
 def run_encounter(player, encounter_config):
     pass
 
 
+def main():
+    game_data = serialize_data_file()
+    game_on = True
+    while game_on:
+        player = select_character()
+
+
+
+if __name__ == '__main__':
+    main

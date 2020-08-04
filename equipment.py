@@ -1,7 +1,9 @@
-class Equipment:
-    def __init__(self, tier, name, slot, sockets, stats):
-        self.tier = tier
-        self.name = name
+from item import Item
+
+
+class Equipment(Item):
+    def __init__(self, tier, name, sell_for, slot, sockets, stats):
+        Item.__init__(self, name, tier, sell_for)
         self.slot = slot
         self.sockets = sockets
         self.stats = stats

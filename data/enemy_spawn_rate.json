@@ -1,0 +1,27 @@
+{
+  "terrains": {
+    "t1": {
+      "Jungle": {
+        "Bandit": 60,
+        "Goblin": 30,
+        "Troll": 10
+      },
+      "Cave": {
+        "Bat": 40,
+        "Slime": 60
+      }
+    },
+    "t2": {
+      "Jungle": {
+        "Bandit": 50,
+        "Goblin": 25,
+        "Troll": 25
+      },
+      "Cave": {
+        "Bat": 50,
+        "Slime": 50
+      }
+    }
+  }
+}
+

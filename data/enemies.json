@@ -1,0 +1,98 @@
+{
+  "enemies": {
+    "t1": {
+      "Troll": {
+        "hp": 200,
+        "mp": 50,
+        "armor": 20,
+        "magic_resist": 0,
+        "attack_speed": 200,
+        "critical_chance": 5,
+        "dodge_change": 5
+      },
+      "Bandit": {
+        "hp": 100,
+        "mp": 50,
+        "armor": 10,
+        "magic_resist": 10,
+        "attack_speed": 100,
+        "critical_chance": 5,
+        "dodge_change": 5
+      },
+      "Goblin": {
+        "hp": 80,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      },
+      "Bat": {
+        "hp": 80,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      },
+      "Slime": {
+        "hp": 80,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      }
+    },
+    "t2": {
+      "Troll": {
+        "hp": 300,
+        "mp": 50,
+        "armor": 20,
+        "magic_resist": 0,
+        "attack_speed": 200,
+        "critical_chance": 5,
+        "dodge_change": 5
+      },
+      "Bandit": {
+        "hp": 200,
+        "mp": 50,
+        "armor": 10,
+        "magic_resist": 10,
+        "attack_speed": 100,
+        "critical_chance": 5,
+        "dodge_change": 5
+      },
+      "Goblin": {
+        "hp": 160,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      },
+      "Bat": {
+        "hp": 160,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      },
+      "Slime": {
+        "hp": 160,
+        "mp": 50,
+        "armor": 5,
+        "magic_resist": 20,
+        "attack_speed": 150,
+        "critical_chance": 2,
+        "dodge_change": 20
+      }
+    }
+  }
+}

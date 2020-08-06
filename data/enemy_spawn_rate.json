@@ -1,5 +1,5 @@
 {
-  "terrains": {
+  "enemy_spawn_rate": {
     "t1": {
       "Jungle": {
         "Bandit": 60,

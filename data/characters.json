@@ -4,6 +4,7 @@
       "name": "test_char",
       "level": 1,
       "current_xp": 0,
+      "play_time": 0,
       "stats": {
         "base_stats": {
           "hp": 100,
